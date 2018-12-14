@@ -9,7 +9,11 @@
 - WorkflowGen Authentication
 - Node js 8.11.3
 
-## Recommended VM Size
+## Recommended VM Size for Sandbox
+
+| Minimal | Recommended | Optimal |
+| --- | --- |---|
+| B1S | B2S | B2ms |
 
 ## Request a trial licence
 
@@ -17,7 +21,9 @@
 
 ## How to connect ?
 
-...
+When your virtual machine is running, WorkflowGen is accessible at `http://[IP_VM]/wfgen`
+
+You can replace IP adress by DNS name.
 
 ## Default credentials
 
@@ -29,7 +35,9 @@
 
 ### Change WorkflowGen application URL
 
-...
+In WorkflowGen config panel, you need to change `application url` parameter. By default the value is `http://localhost/wfgen`, you need to set `http://[IP_VM]/wfgen`.
+
+For more stability, you can set DNS Name instead of IP adress.
 
 ### Configure SMTP
 

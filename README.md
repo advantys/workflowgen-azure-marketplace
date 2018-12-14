@@ -4,4 +4,4 @@ WorkflowGen for Azure offers a low-code platform to automate human-centric busin
 
 ## How to use ?
 
-- [Deploy WorkflowGen Sandbox ](sandbox)
+- [Deploy WorkflowGen Sandbox](sandbox)
