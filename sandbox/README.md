@@ -17,7 +17,7 @@
 
 ## Request a trial licence
 
-...
+Please use this link to request a trial license : https://www.workflowgen.com/en/contact/
 
 ## How to connect ?
 
